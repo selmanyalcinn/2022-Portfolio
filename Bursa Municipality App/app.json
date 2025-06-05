@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Bursapp",
+    "icon": "./Images/Icon2.png",
+    "version": "1.0.0",
+    "slug": "BursaApp",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "selman.selman.bursapp"
+    }
+  }
+}

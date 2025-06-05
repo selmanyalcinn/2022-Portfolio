@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Crypto Tracker",
+    "icon": "./indir.png",
+    "version": "2.0.0",
+    "slug": "crypto-app-slug",
+    "ios": {
+      "bundleIdentifier": "cryptocurrencyapp.selmanyalcin.cryptocurrencyapp",
+      "buildNumber": "2.0.0"
+    },
+    "android": {
+      "package": "cryptocurrencyapp.selmanyalcin.cryptocurrencyapp",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}

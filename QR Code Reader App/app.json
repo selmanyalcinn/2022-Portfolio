@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "QrReader",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "qr-app-slug",
+    "ios": {
+      "bundleIdentifier": "qr.selmanyalcin.qr",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "qr.selmanyalcin.qr",
+      "versionCode": 1,
+      "permissions": ["CAMERA"]
+    }
+  }
+}
