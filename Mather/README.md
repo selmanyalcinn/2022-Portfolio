@@ -24,14 +24,17 @@ Here are some screenshots of the Mather app:
 <p align="center">
 ## Screenshots
 
-![Screenshot 1](Mather%20Screenshots/1664619477083.jpg)
-![Screenshot 2](Mather%20Screenshots/1664619477106.jpg)
-![Screenshot 3](Mather%20Screenshots/1664619477131.jpg)
-![Screenshot 4](Mather%20Screenshots/1664619477155.jpg)
-![Screenshot 5](Mather%20Screenshots/1664619477176.jpg)
-![Screenshot 6](Mather%20Screenshots/1664619477198.jpg)
-![Screenshot 7](Mather%20Screenshots/1664619477217.jpg)
-![Screenshot 8](Mather%20Screenshots/1664619477236.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477083.jpg" width="300" alt="Screenshot 1" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477106.jpg" width="300" alt="Screenshot 2" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477131.jpg" width="300" alt="Screenshot 3" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477155.jpg" width="300" alt="Screenshot 4" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477176.jpg" width="300" alt="Screenshot 5" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477198.jpg" width="300" alt="Screenshot 6" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477217.jpg" width="300" alt="Screenshot 7" />
+  <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477236.jpg" width="300" alt="Screenshot 8" />
+</p>
+
 
 </p>
 
