@@ -17,6 +17,12 @@ Mather encourages logical thinking and sharpens mental arithmetic, making it a p
 - Designed as an educational tool to improve math skills.
 - Showcased at the **2024 4006 TÜBİTAK Science Fair** at Tofaş Fen Lisesi.
 
+  ## Tech Stack
+
+- **React Native**: Cross-platform mobile app development.
+- **JavaScript**: Core logic and interactivity.
+- **Expo**: Streamlined development workflow.
+
 ## Screenshots
 
 Here are some screenshots of the Mather app:
@@ -38,8 +44,3 @@ Here are some screenshots of the Mather app:
 
 </p>
 
-## Tech Stack
-
-- **React Native**: Cross-platform mobile app development.
-- **JavaScript**: Core logic and interactivity.
-- **Expo**: Streamlined development workflow.
