@@ -24,9 +24,6 @@ Mather encourages logical thinking and sharpens mental arithmetic, making it a p
 - **Expo**: Streamlined development workflow.
 
 ## Screenshots
-
-Here are some screenshots of the Mather app:
-
 <p align="center">
 
 <p align="center">
