@@ -11,8 +11,8 @@ In this series, I walk you through the process of building a decentralized appli
 3️⃣ Building the frontend with React and deploying the dApp  
 
 **Watch the full series on YouTube:**  
-[ React dApp Development Playlist](https://www.youtube.com/playlist?list=PLi-zbvHIsvHyqQE_z6_OHKjDKzJWuqkHg)  
-or check out my YouTube channel [Selman Yalçın](https://www.youtube.com/@selmanyalcinn).
+[ React dApp Development Playlist](https://www.youtube.com/playlist?list=PLi-zbvHIsvHyqQE_z6_OHKjDKzJWuqkHg) or check out my YouTube channel [Selman Yalçın](https://www.youtube.com/@selmanyalcinn).
+
 
 ##  Key Technologies
 
