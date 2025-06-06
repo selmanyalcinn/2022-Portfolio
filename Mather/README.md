@@ -28,7 +28,6 @@ Mather encourages logical thinking and sharpens mental arithmetic, making it a p
 Here are some screenshots of the Mather app:
 
 <p align="center">
-## Screenshots
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/selmanyalcinn/2022-Portfolio/main/Mather/Mather%20Screenshots/1664619477083.jpg" width="300" alt="Screenshot 1" />
